@@ -26,7 +26,7 @@
     <table class="table table-bordered table-hover">
       <thead class="table-light">
         <tr>
-          <th>#</th>
+          <th>S.no</th>
           <th>Task</th>
           <th>Status</th>
           <th>Action</th>
